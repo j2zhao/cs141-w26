@@ -24,9 +24,7 @@ def add_one_and_multiply(a, x):
     Returns (int):
         The result of adding 1 to a and then multiplying by x
     """
-
-    ### delete the raise ValueError(...) code and replace with working code
-    raise ValueError("todo: add_one_and_multiply")
+    return -(a + 1)*x 
 
 
 # Exercise 2
